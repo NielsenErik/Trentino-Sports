@@ -1,0 +1,1725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="http://localhost:8080/source/0003789482022091220230609">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusTrip_GID-109992"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Trip"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/0003789492022091220230609">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusTrip_GID-109992"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Trip"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/0003789502022091220230609">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusTrip_GID-109992"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Trip"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/0003789512022091220230609">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusTrip_GID-109992"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Trip"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/0003789522022091220230609">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusTrip_GID-109992"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Trip"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/0003789532022091220230609">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusTrip_GID-109992"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Trip"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/0003789542022091220230609">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusTrip_GID-109992"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Trip"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/0003789552022091220230609">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusTrip_GID-109992"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Trip"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/0003789562022091220230609">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusTrip_GID-109992"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Trip"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/0003789572022091220230609">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusTrip_GID-109992"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Trip"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/0003789582022091220230609">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusTrip_GID-109992"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Trip"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/0003789592022091220230609">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusTrip_GID-109992"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Trip"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/0003789602022091220230609">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusTrip_GID-109992"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Trip"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/0003789612022091220230609">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusTrip_GID-109992"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Trip"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/0003789622022091220230609">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusTrip_GID-109992"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Trip"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/0003789632022091220230609">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusTrip_GID-109992"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Trip"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/0003789642022091220230609">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusTrip_GID-109992"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Trip"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/0003789652022091220230609">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusTrip_GID-109992"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Trip"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/0003789662022091220230609">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusTrip_GID-109992"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Trip"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/0003789672022091220230609">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusTrip_GID-109992"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Trip"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/0003790122022091220230609">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusTrip_GID-109992"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Trip"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/0003790132022091220230609">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusTrip_GID-109992"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Trip"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/0003790142022091220230609">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusTrip_GID-109992"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Trip"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/0003790152022091220230609">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusTrip_GID-109992"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Trip"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/0003790162022091220230609">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusTrip_GID-109992"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Trip"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/0003790172022091220230609">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusTrip_GID-109992"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Trip"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/0003790182022091220230609">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusTrip_GID-109992"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/10">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/107">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/108">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/12">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/13">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/130">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/14">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/145">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/146">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/147">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/148">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/149">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/15">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/150">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/16">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/161">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/165">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/166">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/17">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/174">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/175">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/176">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/178">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/179">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/18">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/180">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/181">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/182">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/183">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/184">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/185">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/186">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/187">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/188">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/189">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/19">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/190">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/191">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/2">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/20">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/202">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/21">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/2120">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/214">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/215">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/216">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/217">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/218">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/2189">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/219">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/22">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/220">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/222">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/223">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/224">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/23">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/24">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/2405">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/243">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/244">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/247">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/248">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/249">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/25">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/250">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/251">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/252">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/253">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/2537">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/2538">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/26">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/27">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/276">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/28">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/280">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/281">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/283">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/285">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/286">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/287">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/288">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/289">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/29">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/291">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/292">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/2927">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/293">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/294">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/295">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/296">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/2961">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/297">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/298">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/3">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/30">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/300">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/301">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/307">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/309">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/3094">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/31">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/314">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/315">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/316">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/317">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/318">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/319">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/32">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/320">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/321">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/328">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/33">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/34">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/348">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/349">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/35">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/36">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/37">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/38">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/382">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/383">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/39">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/390">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/391">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/4">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/40">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/403">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/404">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/405">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/406">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/407">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/408">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/409">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/41">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/410">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/412">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/413">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/414">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/415">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/42">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/420">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/421">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/43">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/44">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/444">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/450">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/451">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/452">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/453">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/456">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/457">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/458">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/459">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/46">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/460">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/461">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/462">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/463">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/464">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/466">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/47">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/477">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/478">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/479">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/48">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/49">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/5">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/50">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/51">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/52">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/524">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/53">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/54">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/55">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/56">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/57">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/58">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/59">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/60">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/61">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/62">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/63">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/64">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/65">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/66">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/67">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/68">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/69">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/7">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/70">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/71">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/72">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/73">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/74">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/75">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/76">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/77">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/78">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/79">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/8">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/80">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/81">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/82">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/83">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/84">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/85">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/9">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/92">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#BusStop_GID-300006"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#gtfs:Stop"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/A.S.I.S.">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportOrganisation_GID-300005"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Organisation"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/BASEBALL%2C%20CRICKET">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#Sport_GID-2681"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Intangible"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/BRIDGE">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#Sport_GID-2681"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Intangible"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/MUNICIPALITY">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportOrganisation_GID-300005"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Organisation"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/source/SPORTS%20CLUB">
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#SportOrganisation_GID-300005"/>
+	<rdf:type rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Organisation"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+</rdf:RDF>
