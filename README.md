@@ -42,7 +42,7 @@ The reference schemata were obtained from these sources:
 
 ## ER Diagram
 
-<img src="./Documentation/pictures/InformalModellingDiagrams.png" width="520px" alt="Classes"/>
+<img src="./Documentation/pictures/InformalModellingDiagrams-Teleology-diagram.jpg" width="520px" alt="Classes"/>
 
 ## ETG
 
