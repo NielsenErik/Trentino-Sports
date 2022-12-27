@@ -40,6 +40,10 @@ The reference schemata were obtained from these sources:
 * [schema.org](https://schema.org)
 * [General Transit Feed Specification Ontology](https://lov.linkeddata.es/dataset/lov/vocabs/gtfs)
 
+## ER Diagram
+
+<img src="./Documentation/pictures/InformalModellingDiagrams.png" width="520px" alt="Classes"/>
+
 ## ETG
 
 [OWL](https://github.com/NielsenErik/Trentino-Sports/tree/main/Teleologies/Formal%20Modeling)
