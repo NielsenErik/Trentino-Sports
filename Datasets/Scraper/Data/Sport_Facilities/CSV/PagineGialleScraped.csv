@@ -1,0 +1,82 @@
+ID,Name,Address,Municipality,CAP,OpeningHours,Telephone,Type
+200,Aquila Basket Trento 2013 S.r.l.," VIA GUARDINI ROMANO, 42",TRENTO,38121,{},0461 439684,Centri e corsi sportivi
+201,Palaghiaccio Palafolgaria," VIA NAZIONI UNITE, 46",FOLGARIA,38064,{},0464 720337,Centri e corsi sportivi
+202,Break Point Golf Club A.S.D.," LOCALITÀ MASO GRILLO, 4",PERGINE,38057,"{'Monday': '08:30 - 21:00', 'Tuesday': '08:30 - 21:00', 'Wednesday': '08:30 - 21:00', 'Thursday': '08:30 - 21:00', 'Friday': '08:30 - 21:00', 'Saturday': '08:30 - 21:00', 'Sunday': '08:30 - 21:00'}",347 4647351,Centri e corsi sportivi
+203,Aquila Basket Trento 2013 S.r.l.," VIALE OLIVETTI ADRIANO, 4",TRENTO,38100,{},0461 525310,Centri e corsi sportivi
+204,Navarini," VIA FILARI LONGHI, 2/A",TRENTO,38123,"{'Monday': '00:00 - 24:00', 'Tuesday': '00:00 - 24:00', 'Wednesday': '00:00 - 24:00', 'Thursday': '00:00 - 24:00', 'Friday': '00:00 - 24:00', 'Saturday': '00:00 - 24:00', 'Sunday': '00:00 - 24:00'}",0461 959812,Centri e corsi sportivi
+19,Circolo Ippico La Roccia," LOCALITÀ PIANIZA, 33",TRENTO,38100,"{'Monday': '09:00 - 19:00', 'Tuesday': '09:00 - 19:00', 'Wednesday': '09:00 - 19:00', 'Thursday': '09:00 - 19:00', 'Friday': '09:00 - 19:00', 'Saturday': '09:00 - 19:00', 'Sunday': '09:00 - 19:00'}",0461 913143,Centri e corsi sportivi
+10,Circolo Tennis," PIAZZA VENEZIA, 41/1",TRENTO,38122,"{'Monday': '09:00 - 23:00', 'Tuesday': '09:00 - 23:00', 'Wednesday': '09:00 - 23:00', 'Thursday': '09:00 - 23:00', 'Friday': '09:00 - 23:00', 'Saturday': '09:00 - 23:00', 'Sunday': '09:00 - 19:00'}",0461 238932,Centri e corsi sportivi
+207,Centro Universitario Sportivo Trento Ass.Sp.Dilettantistica," VIA DELLE REGOLE, 101",MATTARELLO,38123,"{'Monday': '09:00 - 23:00', 'Tuesday': '09:00 - 23:00', 'Wednesday': '09:00 - 23:00', 'Thursday': '09:00 - 23:00', 'Friday': '09:00 - 23:00', 'Saturday': '09:00 - 18:00', 'Sunday': '09:00 - 13:00'}",0461 944356,Centri e corsi sportivi
+208,Centro Pilates e Gyrotonic," PIAZZA DEL DUOMO, 30",TRENTO,38122,"{'Monday': '06:30 - 21:30', 'Tuesday': '06:30 - 21:30', 'Wednesday': '06:30 - 21:30', 'Thursday': '06:30 - 21:30', 'Friday': '06:30 - 21:30', 'Saturday': '06:30 - 21:30', 'Sunday': '06:30 - 21:30'}",339 8683083,Centri e corsi sportivi
+209,Campo sportivo San Bartolomeo, VIA DEGLI OLMI,TRENTO,38123,{},0461 992990,Centri e corsi sportivi
+210,Centro Sportivo Di Trilacum," VIA 12 SETTEMBRE, 6",TRENTO,38123,"{'Monday': '08:00 - 20:00', 'Tuesday': '08:00 - 20:00', 'Wednesday': '08:00 - 20:00', 'Thursday': '08:00 - 20:00', 'Friday': '08:00 - 20:00', 'Saturday': '08:00 - 20:00', 'Sunday': '08:00 - 20:00'}",0461 866471,Centri e corsi sportivi
+211,Campo Sportivo Cristo Re," VIA LAVISOTTO, 41",TRENTO,38121,{},06 992990,Centri e corsi sportivi
+212,Studio Tecnico Associato Gasperotti di Ing. Dott. Gasperotti Luca ed Ing. Dott. Gasperotti Giorgio," SALITA S. AGATA, 23",POVO,38123,{},0461 811409,Impianti sportivi e ricreativi - attrezzature e costruzione
+213,Associazione Sportiva Sportivando," VIA BRUNNER GIUSEPPE, 9",TRENTO,38121,{},0461 091706,Centri e corsi sportivi
+214,Aquila Basket Trento 2013 S.r.l.," VIA ZARA, 14",TRENTO,38122,{},0461 262253,Centri e corsi sportivi
+23,A.C. Trento Sportiva Dilettantistica," VIA ROBERTO DA SANSEVERINO, 41",TRENTO,38123,{},0461 263470,Centri e corsi sportivi
+216,Woody Valley S.r.l., LOCALITA' SPINI,GARDOLO,38121,{},0461 950811,Centri e corsi sportivi
+217,Aquila Basket Trento 2013 S.r.l.," VIA CHINI EUSEBIO, 59",TRENTO,38123,{},0461 916579,Centri e corsi sportivi
+218,Maestri di Sci e Snowboard Cristallo A.T.P.," LOCALITA' VASON, 110",MONTE,38080,{},380 6328814,Centri e corsi sportivi
+73,"Gym ""G. Pascoli"""," VIA ZNOJMO, 24",TRENTO,38100,{},0461 992990,Centri e corsi sportivi
+220,Fitness Sport Club," 22, VIA DELLE GHIAIE",TRENTO,38122,{},0461 92444,centri e corsi sportivi
+221,Palestra Povo," VIA DEI MASI, 6",TRENTO,38100,{},0461 959812,Centri e corsi sportivi
+222,S.S. Buonconsiglio Nuoto," VIA FOGAZZARO ANTONIO, 4",TRENTO,38122,{},0461 910464,Centri e corsi sportivi
+223,Associazione Polisportiva Dilettantistica Kosmos Rovereto," VIA DELLA ROGGIA, 45",ROVERETO,38068,{},0464 942281,Centri e corsi sportivi
+224,Ice Rink Pine' S.r.l.," VIA DELLO VIA DELLO STADIO, 17",BASELGA,38042,{},0461 554167,Centri e corsi sportivi
+25,S.S. Buonconsiglio Nuoto," VIA IV NOVEMBRE, 23",GARDOLO,38121,{},0461 910464,Centri e corsi sportivi
+226,Tennis Club C10 Ass.Sportiva Dilettantistica, VIA DELLA ROGGIA,ROVERETO,38068,{},0464 431045,Centri e corsi sportivi
+227,Campo Sportivo Comunale, VIALE LIDO,LEVICO,38056,"{'Monday': '00:00 - 24:00', 'Tuesday': '00:00 - 24:00', 'Wednesday': '00:00 - 24:00', 'Thursday': '00:00 - 24:00', 'Friday': '00:00 - 24:00', 'Saturday': '00:00 - 24:00', 'Sunday': '00:00 - 24:00'}",0461 706892,Centri e corsi sportivi
+228,Centro Natatorio Comunale di Rovereto," VIA UDINE, 1",ROVERETO,38068,"{'Monday': '09:00 - 20:30', 'Tuesday': '09:00 - 20:30', 'Wednesday': '09:00 - 20:30', 'Thursday': '09:00 - 20:30', 'Friday': '09:00 - 20:30', 'Saturday': '09:00 - 19:30', 'Sunday': '09:00 - 19:30'}",0464 435440,Centri e corsi sportivi
+229,Palazzetto dello Sport," VIA PIOMARTA, 1",ROVERETO,38068,{},0464 438055,Centri e corsi sportivi
+230,Boulder City Asd," VIALE DAINO, 74/C",PIETRAMURATA,38074,{},0464 507354,Centri e corsi sportivi
+231,Piscina Acquambiez, LOCALITÀ PROMEGHIN,SAN,38078,"{'Monday': '09:00 - 13:00', 'Tuesday': '09:00 - 13:00', 'Wednesday': '09:00 - 13:00', 'Thursday': '09:00 - 13:00', 'Friday': '09:00 - 13:00', 'Saturday': '09:00 - 13:00', 'Sunday': '09:00 - 13:00'}",0465 730082,Centri e corsi sportivi
+232,Palasport di Folgaria," VIA NAZIONI UNITE, 21/B",FOLGARIA,38064,{},0464 720277,Centri e corsi sportivi
+233,S.S.D. Rari Nantes Valsugana a R.L.," PIAZZA GENERALE DALLA CHIESA, 1",LEVICO,38056,{},0461 700373,Centri e corsi sportivi
+234,Ice Rink Pine' S.r.l.," FRAZIONE MIOLA, 17",BASELGA,38042,{},0461 557476,Centri e corsi sportivi
+235,Centro di Tiro con l'Arco," VIA DELLA ROGGIA, 45",ROVERETO,38068,"{'Monday': '10:00 - 22:00', 'Tuesday': '10:00 - 22:00', 'Wednesday': '10:00 - 22:00', 'Thursday': '10:00 - 22:00', 'Friday': '10:00 - 22:00', 'Saturday': '10:00 - 22:00', 'Sunday': '10:00 - 22:00'}",366 5809997,Centri e corsi sportivi
+236,Circolo Tennis Lavis Assoc.Sport.Dilettantistica," VIA DEI COLLI, 26",LAVIS,38015,"{'Monday': '10:00 - 23:00', 'Tuesday': '10:00 - 23:00', 'Wednesday': '10:00 - 23:00', 'Thursday': '10:00 - 23:00', 'Friday': '10:00 - 23:00', 'Saturday': '10:00 - 23:00', 'Sunday': '10:00 - 23:00'}",334 8037080,Centri e corsi sportivi
+237,Stadio del Ghiaccio," VIALE DEL PARCO, 1",ANDALO,38010,{},0461 585776,Centri e corsi sportivi
+238,Circolo Tennis Pergine Assoc.Sport.Dilettantistica," VIALE PETRI, 2",PERGINE,38057,{},0461 532169,Centri e corsi sportivi
+239,Paintball Park Trento," 5, VIA AI SEGRAI",CIAGO,38096,{},392 9094730,centri e corsi sportivi
+240,Centro Natatorio Pergine Valsugana," VIA MARCONI GUGLIELMO, 51",PERGINE,38057,"{'Monday': '06:00 - 22:00', 'Tuesday': '07:00 - 22:00', 'Wednesday': '06:00 - 22:00', 'Thursday': '07:00 - 22:00', 'Friday': '06:00 - 22:00', 'Saturday': '08:00 - 20:00', 'Sunday': '08:00 - 20:00'}",0461 531773,Centri e corsi sportivi
+241,Sezione Tiro a Segno Nazionale," LOCALITA' COSTA, 20",PERGINE,38057,{},0461 538413,Centri e corsi sportivi
+242,Aquila Basket Trento 2013 S.r.l.," PASSAGGIO CLEMENTEL EZIO, 7",TRENTO,38100,{},0461 437387,Centri e corsi sportivi
+243,Campo Ghiaccio di Pergine," VIA AL PONTE, 1/A",PERGINE,38057,"{'Monday': '14:00 - 16:30', 'Tuesday': '14:00 - 16:30', 'Wednesday': '14:00 - 16:00', 'Thursday': '14:00 - 16:30', 'Friday': '14:00 - 16:30', 'Saturday': '14:00 - 16:30', 'Sunday': '14:00 - 16:30'}",0461 534423,Centri e corsi sportivi
+244,Tennisclub Dilettanti Laghetti," VIA CAURIA, 57",EGNA,39044,{},340 7433050,Centri e corsi sportivi
+245,A.S.I.S.," VIA IV NOVEMBRE, 23/4",GARDOLO,38121,{},0461 992990,Comune e servizi comunali
+246,Aquila Basket Trento 2013 S.r.l.," VIA MARIGHETTO ANCILLA, 28",TRENTO,38123,{},0461 419794,Centri e corsi sportivi
+247,Aquila Basket Trento 2013 S.r.l.," VIALE DELLA COSTITUZIONE, 5",TRENTO,38100,{},0461 437435,Centri e corsi sportivi
+30,Aquila Basket Trento 2013 S.r.l.," VIA FERSINA, 11",TRENTO,38123,{},0461 935181,Centri e corsi sportivi
+249,Leno 2001," VIA UDINE, 18",ROVERETO,38068,{},0464 400315,Centri e corsi sportivi
+250,Istituto Superiore Don Milani - Depero," VIA BALISTA, 2",ROVERETO,38068,"{'Monday': '08:00 - 22:00', 'Tuesday': '08:00 - 22:00', 'Wednesday': '08:00 - 22:00', 'Thursday': '08:00 - 22:00', 'Friday': '08:00 - 22:00', 'Saturday': '08:00 - 22:00', 'Sunday': '08:00 - 22:00'}",0464 485511,Centri e corsi sportivi
+251,Centro Ippico," VIA PALUDI, 22",BASELGA,38042,"{'Monday': '09:00 - 12:00', 'Tuesday': '09:00 - 12:00', 'Wednesday': '09:00 - 12:00', 'Thursday': '09:00 - 12:00', 'Friday': '09:00 - 12:00', 'Saturday': '09:00 - 12:00', 'Sunday': '09:00 - 12:00'}",347 0152778,Centri e corsi sportivi
+252,Carli Sport S.r.l.," VIA CANE', 7",MEZZOCORONA,38016,{},0461 605049,Impianti sportivi e ricreativi - attrezzature e costruzione
+253,Centro Sportivo," PIAZZA GENERALE DALLA CHIESA, 1",LEVICO,38056,{},0461 700373,Centri e corsi sportivi
+254,2001 S.R.L.," VIA LUNGO LENO DESTRO, 25/B",ROVERETO,38068,{},0464 439377,Centri e corsi sportivi
+255,Circolo Tennis Lavarone A.S.D.," FRAZIONE GIONGHI, 107",LAVARONE,38046,"{'Monday': '00:00 - 24:00', 'Tuesday': '00:00 - 24:00', 'Wednesday': '00:00 - 24:00', 'Thursday': '00:00 - 24:00', 'Friday': '00:00 - 24:00', 'Saturday': '00:00 - 24:00', 'Sunday': '00:00 - 24:00'}",0464 724146,Centri e corsi sportivi
+256,Golf Club Folgaria, LOCALITÀ MASO SPILZI,FOLGARIA,38064,{},0464 720480,Centri e corsi sportivi
+257,Centro Ippico Il Salice," VIA CARDUCCI GIOSUE', 98",FOLGARIA,38064,{},0464 765255,Centri e corsi sportivi
+258,Centro Equitazione Airone," LOCALITÀ BARCO, 3",LEVICO,38056,"{'Monday': '00:00 - 24:00', 'Tuesday': '00:00 - 24:00', 'Wednesday': '00:00 - 24:00', 'Thursday': '00:00 - 24:00', 'Friday': '00:00 - 24:00', 'Saturday': '00:00 - 24:00', 'Sunday': '00:00 - 24:00'}",339 6768993,Centri e corsi sportivi
+259,Piscina Olimpionica," VIA LUNGO LAGO, 27",MOLVENO,38018,{},0461 586978,Centri e corsi sportivi
+260,Campo di Golf, VIA FERME,RONCEGNO,38050,{},0461 773337,Centri e corsi sportivi
+261,Azienda Speciale per La Gestione degli Impianti Sportivi del Comune di Trento," PIAZZA DALLA CHIESA CARLO ALBERTO, 1",LEVICO,38056,{},0461 708312,Centri e corsi sportivi
+262,Centro Natatorio Folgaria," VIA NAZIONI UNITE, 21/B",FOLGARIA,38064,"{'Monday': '10:00 - 21:00', 'Tuesday': '10:00 - 21:00', 'Wednesday': '10:00 - 21:00', 'Thursday': '10:00 - 21:00', 'Friday': '10:00 - 21:00', 'Saturday': '15:30 - 20:30', 'Sunday': '15:30 - 20:30'}",0464 720058,Centri e corsi sportivi
+263,Associaz. Sport. Dilettantistica Tennis Levico Terme," LOCALITA' BELVEDERE, 1",LEVICO,38056,{},333 2739341,Centri e corsi sportivi
+264,Associazione Equestre Cavalcailvento, LOCALITÀ SALIN,CAVEDINE,38073,{},0461 568267,Centri e corsi sportivi
+265,Tennis Club Associazione Sportiva Dilettantistica, FRAZIONE SANTA CROCE,BLEGGIO,38071,{},334 2925960,Centri e corsi sportivi
+266,Campo da calcio La Pineta di Folgaria, VIA DE GASPERI,FOLGARIA,38064,{},0464 723131,Centri e corsi sportivi
+267,Circolo Tennis Rovereto," VIA DELLA ROGGIA, 43",ROVERETO,38068,"{'Monday': '08:00 - 22:00', 'Tuesday': '08:00 - 22:00', 'Wednesday': '08:00 - 22:00', 'Thursday': '08:00 - 22:00', 'Friday': '08:00 - 22:00', 'Saturday': '09:00 - 20:00', 'Sunday': '09:00 - 20:00'}",0464 431045,Centri e corsi sportivi
+268,Circolo Tennis Rovereto Asd," VIA LUNGO LENO DESTRO, 25",ROVERETO,38068,"{'Monday': '07:30 - 22:00', 'Tuesday': '07:30 - 22:00', 'Wednesday': '07:30 - 22:00', 'Thursday': '07:30 - 22:00', 'Friday': '07:30 - 22:00', 'Saturday': '07:30 - 22:00', 'Sunday': '07:30 - 22:00'}",0464 439377,Centri e corsi sportivi
+269,Campo Sportivo Moar," FRAZIONE AZZOLINI, 82",LAVARONE,38046,"{'Monday': '00:00 - 24:00', 'Tuesday': '00:00 - 24:00', 'Wednesday': '00:00 - 24:00', 'Thursday': '00:00 - 24:00', 'Friday': '00:00 - 24:00', 'Saturday': '00:00 - 24:00', 'Sunday': '00:00 - 24:00'}",0464 783179,Centri e corsi sportivi
+270,Campo da calcio Bedolpian, LOCALITÀ BEDOLPIAN,BASELGA,38042,"{'Monday': '00:00 - 24:00', 'Tuesday': '00:00 - 24:00', 'Wednesday': '00:00 - 24:00', 'Thursday': '00:00 - 24:00', 'Friday': '00:00 - 24:00', 'Saturday': '00:00 - 24:00', 'Sunday': '00:00 - 24:00'}",349 6989956,Centri e corsi sportivi
+5,Circolo Tennis Calisio," VIA PRADISCOLA, 1",TRENTO,38100,"{'Monday': '09:00 - 23:00', 'Tuesday': '09:00 - 23:00', 'Wednesday': '09:00 - 23:00', 'Thursday': '09:00 - 23:00', 'Friday': '09:00 - 23:00', 'Saturday': '09:00 - 23:00', 'Sunday': '09:00 - 23:00'}",0461 820040,Centri e corsi sportivi
+272,Associaz. Sport. Dilettantistica Tennis Levico Terme, LOCALITÀ BELVEDERE,LEVICO,38056,"{'Monday': '08:00 - 23:00', 'Tuesday': '08:00 - 23:00', 'Wednesday': '08:00 - 23:00', 'Thursday': '08:00 - 23:00', 'Friday': '08:00 - 23:00', 'Saturday': '08:00 - 23:00', 'Sunday': '08:00 - 23:00'}",333 2739341,Centri e corsi sportivi
+273,Star Club," VIA UNTERVEGER GIAMBATTISTA, 104",TRENTO,38122,"{'Monday': '05:00 - 22:00', 'Tuesday': '05:00 - 22:00', 'Wednesday': '05:00 - 22:00', 'Thursday': '05:00 - 22:00', 'Friday': '05:00 - 22:00', 'Saturday': '05:00 - 20:00', 'Sunday': '05:00 - 20:00'}",0461 821284,Centri e corsi sportivi
+274,Ecosport Italia S.r.l.," VIA AVISIO, 24",TRENTO,38121,{},329 5459087,Impianti sportivi e ricreativi - attrezzature e costruzione
+275,Azienda Speciale per La Gestione degli Impianti Sportivi del Comune di Trento," STRADA DELLE VIOTE, 1",TRENTO,38123,{},0461 948032,Centri e corsi sportivi
+22,Campo di Atletica Leggera Comunale," VIA MACCANI EZIO, 2",TRENTO,38121,{},0461 830454,Centri e corsi sportivi
+277,Azienda Speciale per La Gestione degli Impianti Sportivi del Comune di Trento," VIA MENGUZZATO VEGLIA CLORINDA, 6",TRENTO,38123,{},0461 390785,Centri e corsi sportivi
+25,Centro Sportivo Trento Nord Gardolo," VIA IV NOVEMBRE, 23/4",TRENTO,38121,"{'Monday': '09:00 - 21:00', 'Tuesday': '09:00 - 21:00', 'Wednesday': '09:00 - 21:00', 'Thursday': '09:00 - 21:00', 'Friday': '09:00 - 21:00', 'Saturday': '09:00 - 21:00', 'Sunday': '09:00 - 21:00'}",0461 959812,Centri e corsi sportivi
+279,Stadio del ghiaccio Trento," VIA FERSINA, 2",TRENTO,38123,{},0461 391854,Centri e corsi sportivi
+280,Azienda Speciale per La Gestione degli Impianti Sportivi del Comune di Trento," VIA IV NOVEMBRE . GARDOLO, 23",TRENTO,38100,{},0461 959800,Centri e corsi sportivi
